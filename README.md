@@ -18,4 +18,4 @@
 Apaixonado por tecnologia e inovação, estudante de Ciência e Tecnologia na Universidade Federal de São Paulo, buscando transformar ideias em realidade através da programação.
 
 ## Contato:
-Email: joaorubensrm@gamil.com
+Email: joaorubensrm@gmail.com
