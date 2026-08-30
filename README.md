@@ -30,8 +30,14 @@ problems into systems that hold up in production.
 | [**Meeting Transcriber**](https://github.com/joaormonteiro/transcritor-reunioes) | Windows app that records mic + system audio (WASAPI loopback), then transcribes and diarizes speakers with WhisperX into a Markdown transcript per meeting. |
 | [**Financial Control**](https://github.com/joaormonteiro/FPM---Financial-Control-) | Offline personal-finance desktop app (PySide6). Imports bank CSVs and classifies transactions through a 7-stage pipeline: rules, learned patterns, Gemini, TF-IDF over history, keyword heuristics. |
 
+A large part of my recent work is LLM / agent work — a client-deployed support
+agent, internal automation, content-classification pipelines. Some of it is
+public (the projects above); the rest lives in private repositories because it
+runs on real client and personal data.
+
 ### Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaormonteiro/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaorubensrm@gmail.com)
 
-Email: joaorubensrm@gmail.com
+joaorubensrm@gmail.com
