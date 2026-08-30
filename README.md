@@ -27,6 +27,8 @@ problems into systems that hold up in production.
 |---|---|
 | [**file-organizer-agent**](https://github.com/joaormonteiro/file-organizer-agent) | Local agent that watches the Windows Downloads folder, classifies each file (by extension, then by content via an LLM), files it away and indexes everything in a searchable SQLite. Designed for **zero RAM at idle**. 562 tests, 96% coverage. |
 | [**EfficienceCo**](https://github.com/EfficienceCo/EfficienceCo) | Custom automation software for accounting firms — hybrid architecture (cloud backend + local agent on the client machine), license validation, Stripe billing. |
+| [**Meeting Transcriber**](https://github.com/joaormonteiro/transcritor-reunioes) | Windows app that records mic + system audio (WASAPI loopback), then transcribes and diarizes speakers with WhisperX into a Markdown transcript per meeting. |
+| [**Financial Control**](https://github.com/joaormonteiro/FPM---Financial-Control-) | Offline personal-finance desktop app (PySide6). Imports bank CSVs and classifies transactions through a 7-stage pipeline: rules, learned patterns, Gemini, TF-IDF over history, keyword heuristics. |
 
 ### Contact
 
