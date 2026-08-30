@@ -28,9 +28,13 @@ I like turning fuzzy problems into systems that hold up in production.
 ### Tech
 
 **Languages:** JavaScript · Python · C · C++
+
 **Web:** Node.js · React · Next.js · REST APIs
+
 **AI / LLM:** Gemini & Claude APIs · agent design · LLM classification pipelines · local embeddings
+
 **Data:** MongoDB · SQLite
+
 **Tools:** Git · Docker · AWS (Textract, S3) · Linux
 
 ### Featured projects
