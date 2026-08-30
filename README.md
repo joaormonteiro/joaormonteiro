@@ -4,9 +4,9 @@ Computer Engineering student at **UNIFESP** (São Paulo, Brazil) and a developer
 hands-on experience across **web** and **embedded firmware**. I like turning fuzzy
 problems into systems that hold up in production.
 
-- **Now:** Software Engineering Intern at **Eyeconnect** — JavaScript / Node.js /
-  Meteor, maintaining and evolving a system in production (REST APIs, OCR pipeline
-  with AWS Textract/S3).
+- **Now:** Developer at **Eyeconnect** — I run the day-to-day development of the
+  web platform: JavaScript / Node.js / Meteor, production maintenance and new
+  features, REST APIs, OCR pipeline with AWS Textract/S3.
 - **Building:** **EfficienceCo** — custom software for accounting and back-office
   firms. I lead the backend (Node.js + Stripe) and review every PR.
 - **Before that:** ~1 year in embedded C/C++ — firmware at **Delta Life** and a
