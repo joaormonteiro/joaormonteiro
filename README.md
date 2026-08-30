@@ -1,21 +1,37 @@
+### Hi, I'm João Rubens 👋
 
-### Olá! Eu sou o João Rubens 👋
+Computer Engineering student at **UNIFESP** (São Paulo, Brazil) and a developer with
+hands-on experience across **web** and **embedded firmware**. I like turning fuzzy
+problems into systems that hold up in production.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaormonteiro/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaorubens_monteiro/)
+- 🔭 **Now:** Software Engineering Intern at **Eyeconnect** — JavaScript / Node.js /
+  Meteor, maintaining and evolving a system in production (REST APIs, OCR pipeline
+  with AWS Textract/S3).
+- 🚀 **Building:** **EfficienceCo** — custom software for accounting and back-office
+  firms. I lead the backend (Node.js + Express + Stripe) and review every PR.
+- 🔬 **Before that:** ~1 year in embedded C/C++ — firmware at **Delta Life** and a
+  scientific-initiation project at UNIFESP (low-cost insulin infusion pump).
+- 🌎 Open to **remote / contract** roles worldwide. Timezone UTC−3.
+- 💬 Portuguese (native) · English — intermediate (B1+), fluent in async written communication.
 
-![joaormonteiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaormonteiro&show_icons=true&theme=radical)
+### Tech
 
+**Languages:** JavaScript · TypeScript · Python · C · C++
+**Web:** Node.js · Express · React · Next.js · REST APIs
+**Data:** PostgreSQL · MongoDB · SQLite
+**Tools:** Git · Docker · AWS (Textract, S3) · Linux
 
-## Tecnologias que eu uso no meu dia
+### Featured projects
 
-<div style = "display: inline_block"><br/>
-    <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-        <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-            <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-                <img align="center" alt="Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
-</div><br/>
+| Project | What it is |
+|---|---|
+| [**file-organizer-agent**](https://github.com/joaormonteiro/file-organizer-agent) | Local agent that watches the Windows Downloads folder, classifies each file (by extension, then by content via an LLM), files it away and indexes everything in a searchable SQLite. Designed for **zero RAM at idle**. 562 tests, 96% coverage. |
+| [**EfficienceCo**](https://github.com/EfficienceCo/EfficienceCo) | Custom automation software for accounting firms — hybrid architecture (cloud backend + local agent on the client machine), license validation, Stripe billing. |
 
-Apaixonado por tecnologia e inovação, estudante de Ciência e Tecnologia na Universidade Federal de São Paulo, buscando transformar ideias em realidade através da programação.
+### Contact
 
-## Contato:
-Email: joaorubensrm@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaormonteiro/)
+&nbsp;
+📧 joaorubensrm@gmail.com
+
+![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaormonteiro&show_icons=true&hide_border=true&theme=graywhite&count_private=true)
