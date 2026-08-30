@@ -12,6 +12,11 @@ I like turning fuzzy problems into systems that hold up in production.
   firms. I set the product direction, run the client conversations, and build the
   backend (Node.js + Stripe). Hybrid architecture: a cloud API plus a local agent
   installed on the client's machine.
+- **AI and agents:** a large part of my recent work is LLM driven. Automation
+  agents, content-classification pipelines, a client-deployed support agent, and
+  my own PKM / second-brain system built on Claude Code. Some of it is public
+  (the projects below); the rest is private because it runs on real client and
+  personal data.
 - **Before that:** ~1 year at **Delta Life**, developing medical devices on both
   sides. Firmware in C/C++ and hands-on work on the hardware itself (prototyping,
   3D-printed enclosure, bench testing). In parallel, a scientific-initiation
@@ -19,11 +24,6 @@ I like turning fuzzy problems into systems that hold up in production.
 - Open to **remote / contract** roles worldwide. Timezone UTC-3.
 - Portuguese (native). English: intermediate (B1+), fluent in async written
   communication.
-- **AI and agents:** a large part of my recent work is LLM driven. Automation
-  agents, content-classification pipelines, a client-deployed support agent, and
-  my own PKM / second-brain system built on Claude Code. Some of it is public
-  (the projects below); the rest is private because it runs on real client and
-  personal data.
 
 ### Tech
 
