@@ -1,24 +1,24 @@
-### Hi, I'm João Rubens 👋
+### Hi, I'm João Rubens
 
 Computer Engineering student at **UNIFESP** (São Paulo, Brazil) and a developer with
 hands-on experience across **web** and **embedded firmware**. I like turning fuzzy
 problems into systems that hold up in production.
 
-- 🔭 **Now:** Software Engineering Intern at **Eyeconnect** — JavaScript / Node.js /
+- **Now:** Software Engineering Intern at **Eyeconnect** — JavaScript / Node.js /
   Meteor, maintaining and evolving a system in production (REST APIs, OCR pipeline
   with AWS Textract/S3).
-- 🚀 **Building:** **EfficienceCo** — custom software for accounting and back-office
-  firms. I lead the backend (Node.js + Express + Stripe) and review every PR.
-- 🔬 **Before that:** ~1 year in embedded C/C++ — firmware at **Delta Life** and a
+- **Building:** **EfficienceCo** — custom software for accounting and back-office
+  firms. I lead the backend (Node.js + Stripe) and review every PR.
+- **Before that:** ~1 year in embedded C/C++ — firmware at **Delta Life** and a
   scientific-initiation project at UNIFESP (low-cost insulin infusion pump).
-- 🌎 Open to **remote / contract** roles worldwide. Timezone UTC−3.
-- 💬 Portuguese (native) · English — intermediate (B1+), fluent in async written communication.
+- Open to **remote / contract** roles worldwide. Timezone UTC−3.
+- Portuguese (native) · English — intermediate (B1+), fluent in async written communication.
 
 ### Tech
 
-**Languages:** JavaScript · TypeScript · Python · C · C++
-**Web:** Node.js · Express · React · Next.js · REST APIs
-**Data:** PostgreSQL · MongoDB · SQLite
+**Languages:** JavaScript · Python · C · C++
+**Web:** Node.js · React · Next.js · REST APIs
+**Data:** MongoDB · SQLite
 **Tools:** Git · Docker · AWS (Textract, S3) · Linux
 
 ### Featured projects
@@ -33,7 +33,5 @@ problems into systems that hold up in production.
 ### Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaormonteiro/)
-&nbsp;
-📧 joaorubensrm@gmail.com
 
-![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaormonteiro&show_icons=true&hide_border=true&theme=graywhite&count_private=true)
+Email: joaorubensrm@gmail.com
