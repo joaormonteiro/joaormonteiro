@@ -1,9 +1,8 @@
 ### Hi, I'm João Rubens
 
 Computer Engineering student at **UNIFESP** (São Paulo, Brazil) and a developer with
-hands-on experience across **web**, **AI / LLM tooling** and **embedded systems**.
+hands-on experience across **web**, **AI / LLM applications** and **embedded systems**.
 I like turning fuzzy problems into systems that hold up in production.
-
 
 - **Now:** Developer at **Eyeconnect**. I run the day-to-day development of the
   web platform: JavaScript / Node.js / Meteor, production maintenance and new
